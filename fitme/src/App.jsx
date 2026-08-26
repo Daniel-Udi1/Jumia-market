@@ -6,6 +6,8 @@ import './App.css'
 import Nav from './Nav'
 import Section from './Section'
 import Background from './Background'
+import Fetch from './Fetch'
+
 
 function App() {
   const [count, setCount] = useState(0)
@@ -15,6 +17,7 @@ function App() {
     <Nav />
      <Section/>
      <Background />
+     <Fetch />
     </>
   )
 }

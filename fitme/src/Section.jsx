@@ -29,21 +29,21 @@ return(
         
         <div className="flex gap-2 pt-3">
           <p className="text-black font-bold text-2xl">Premium </p>
-          <p className="text-yellow-300 font-bold text-2xl">Quality</p>
+          <p className="text-amber-700 font-bold text-2xl">Quality</p>
          </div>
 
 
          <div className="flex pt-6 gap-3" >
             <p className="font-sans text-black text-3xl">Food for your</p>
             <img src={component} className="w-15 "/>
-            <p className="font-sans text-yellow-400 text-3xl">healthy</p>
+            <p className="font-serif text-amber-700 text-3xl">healthy</p>
 
          </div>
 
       
                     <div className="flex pt-7">
                         <img src={compo}  className="w-15"/>
-                        <p className="font-sans text-yellow-500 text-3xl ml-4">& Daily Life</p>
+                        <p className="font-serif text-amber-700  text-3xl ml-4">& Daily Life</p>
                     </div>
 
             
@@ -61,7 +61,7 @@ return(
             <div className="flex pt-4  gap-6">
               
              <input className=" w-64 border-2 rounded  px-4" placeholder="Enter your delivery location" />
-             <button className="bg-black rounded text-white w-32">Get Started</button>
+             <button className="bg-black rounded text-white w-32 h-8">Get Started</button>
 
               </div>            
                
