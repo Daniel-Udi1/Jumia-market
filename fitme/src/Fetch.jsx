@@ -29,7 +29,7 @@ const Fetch = () => {
           <>
           
 
-         <div className="bg-amber-700 h-28 w-[1270px] mt-24 ml-6">
+         <div className="bg-amber-700 h-28 w-[1351px] mt-24 ">
             
             <div className="flex justify-center gap-5 pt-10 mr-10">
                <p className="font-bold text-white pt-2">Search By Resturant</p>
@@ -39,7 +39,7 @@ const Fetch = () => {
 
          </div>
 
-        <div className="mt-20 flex ml-10">
+        <div className="mt-20 flex justify-center">
 
             {/* Food Sections */}
             <div className="flex justify-center gap-20">
@@ -76,7 +76,7 @@ const Fetch = () => {
                 <div>
                     <h1 className="font-bold"></h1>
 
-                    <div className="grid grid-cols-2 gap-10 pt-9">
+                    <div className="grid grid-cols-2 gap-10 pt-9 ">
                         {products.slice(15, 19).map((product) => (
                             <div key={product.id} className="rounded-lg">
                                 <img
@@ -128,6 +128,11 @@ const Fetch = () => {
                 </div>
             )}
         </div>
+         
+
+
+
+        
 
         </>
     );

@@ -20,7 +20,7 @@ const Background = () => {
     }, []);
 
     return (
-        <div className="mt-20 flex ml-10">
+        <div className="mt-20 flex justify-center">
 
             {/* Food Sections */}
             <div className="flex justify-center gap-20">

@@ -18,7 +18,7 @@ return(
 
  
 <div>
-     <img src={union} className="flex justify-between items-center pt-20 mr-9" />
+     <img src={union} className="flex justify-between items-center pt-20 mr-20" />
      
  </div>
 
