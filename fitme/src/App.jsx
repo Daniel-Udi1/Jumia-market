@@ -7,6 +7,7 @@ import Nav from './Nav'
 import Section from './Section'
 import Background from './Background'
 import Fetch from './Fetch'
+import Lastpage from './Lastpage'
 
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
      <Section/>
      <Background />
      <Fetch />
+     <Lastpage />
     </>
   )
 }
