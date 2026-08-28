@@ -16,11 +16,12 @@ return(
             <p className="font-bold text-black text-2xl">Fitme</p>
           </div>
         
-         <div className="flex justify-between gap-7">
+          <div className="flex justify-between gap-7">
 
             <div className="flex items-center  gap-2 border-2 rounded">
                  <input className=" ml-4  w-96 " placeholder="Enter item or restaurant you are looking for"></input>
              <  FaSearch className="mr-4" />
+             
             </div>
 
              

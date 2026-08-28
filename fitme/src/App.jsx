@@ -8,6 +8,7 @@ import Section from './Section'
 import Background from './Background'
 import Fetch from './Fetch'
 import Lastpage from './Lastpage'
+import Newlook from './Newlook'
 
 
 function App() {
@@ -20,6 +21,7 @@ function App() {
      <Background />
      <Fetch />
      <Lastpage />
+     <Newlook />
     </>
   )
 }
