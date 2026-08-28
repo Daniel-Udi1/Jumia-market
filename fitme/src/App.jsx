@@ -10,6 +10,8 @@ import Fetch from './Fetch'
 import Lastpage from './Lastpage'
 import Newlook from './Newlook'
 import Rice from './Rice'
+import Dishes from './Dishes'
+import Page from './Page'
 
 
 function App() {
@@ -24,6 +26,8 @@ function App() {
      <Lastpage />
      <Newlook />
      <Rice />
+     <Dishes />
+     <Page />
     </>
   )
 }
