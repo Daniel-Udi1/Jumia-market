@@ -9,6 +9,7 @@ import Background from './Background'
 import Fetch from './Fetch'
 import Lastpage from './Lastpage'
 import Newlook from './Newlook'
+import Rice from './Rice'
 
 
 function App() {
@@ -22,6 +23,7 @@ function App() {
      <Fetch />
      <Lastpage />
      <Newlook />
+     <Rice />
     </>
   )
 }
