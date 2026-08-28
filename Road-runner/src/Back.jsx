@@ -14,7 +14,7 @@ function Back (){
 
             
         
-          <div className="bg-blue-950 w-80 mt-220 h-26 ml-10 rounded-t-2xl">
+          <div className="bg-blue-950 w-80 mt-220 h-26 ml-10 rounded-tl-3xl">
                
          <div>
             <img src={Car} alt="" className=" w-80 pt-28" />
@@ -34,7 +34,7 @@ function Back (){
           
 
           
-          <div className="bg-amber-700 relative -top-23 w-71 ml-96 h-40 rounded-b-2xl">
+          <div className="bg-amber-700 relative -top-23 w-71 ml-96 h-40 rounded-bl-3xl">
               
           </div>
        </div>
