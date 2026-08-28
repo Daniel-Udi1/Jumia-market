@@ -5,6 +5,8 @@ import viteLogo from './assets/vite.svg'
 import './App.css'
 import Nav from './Nav'
 import Section from './Section'
+import Back from './Back'
+
 
 
 function App() {
@@ -14,6 +16,7 @@ function App() {
     <>
      <Nav />
      <Section />
+     <Back />
     </>
   )
 }

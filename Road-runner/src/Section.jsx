@@ -30,30 +30,15 @@ function Section(){
 
 
 </div>
-
-            
+      
+   
 
           </div>
          
              
 
-         
-         
-
-            <div className="bg-blue-950   w-96 rounded-tl-2xl ">
-
-            </div>
-
-
-
-
-
-
-         
-
-
-
-
+             
+    
 
          </>
 
